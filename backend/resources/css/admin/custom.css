@@ -1,0 +1,25 @@
+.gallery-image-block{
+    background-color: #ccc;
+}
+.size-color{
+    border: 2px #ccc solid;
+    padding: 5px;
+}
+
+.open-create-form {
+    display: none;
+}
+.open-create-form.active {
+    display: block;
+}
+
+form.active {
+    display: none;
+}
+
+.card-header .title {
+    border: 1px solid #0a53be;
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
